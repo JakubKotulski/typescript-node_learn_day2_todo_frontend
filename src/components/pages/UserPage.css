@@ -1,0 +1,11 @@
+.user-page {
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+}
+
+.user-page .tasks-info-section {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
